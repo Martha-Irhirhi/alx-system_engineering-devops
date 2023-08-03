@@ -5,3 +5,5 @@
 3. 2-groups is a script that shows you all the groups available
 
 4. 3-new_owner is a script that changes ownership of a file
+
+5. 4-empty is a script that creates an empty file called hello
