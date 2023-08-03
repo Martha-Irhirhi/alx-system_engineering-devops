@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo 100 hello
+chmod 744
