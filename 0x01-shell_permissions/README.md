@@ -21,3 +21,6 @@
 11. 10-mirror_permissions mirroes hello to olleh
 
 12. 11-directories_permissions adds execute for all subdirectories
+
+
+13. my_dir is a script that creates my_dir directory
