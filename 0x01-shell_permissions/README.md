@@ -24,3 +24,5 @@
 
 
 13. my_dir is a script that creates my_dir directory
+
+14. 12-directory_permissions is a script that creates a directory called my-dir and changes its permissions to 751.
