@@ -11,3 +11,5 @@
 6. 5-execte is a script that adds execute permission to the file hello 
 
 7. 6-multiple_permissions is a script that adds execute permission to the owner and group ower, and read permission to others, to the file hello.
+
+8. &-everybody is a script that adds execution permission to the owner, the group owner, and other users
