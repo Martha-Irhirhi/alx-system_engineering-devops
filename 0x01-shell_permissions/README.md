@@ -19,3 +19,5 @@
 10. 9-John_Doe sets file hello to rwx-x-wx
 
 11. 10-mirror_permissions mirroes hello to olleh
+
+12. 11-directories_permissions adds execute for all subdirectories
