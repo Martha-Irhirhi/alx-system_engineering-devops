@@ -29,3 +29,5 @@
 
 
 15. 13-change_group is a script that changes the group of the file hello to school
+
+16. 100-change_owner_and_group is a script that changes owner and group
