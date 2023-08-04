@@ -33,3 +33,6 @@
 16. 100-change_owner_and_group is a script that changes owner and group
 
 17. 101-symbolic_link_permissions 
+
+
+18. 102-if_only is a script that changes the owner of the file hello to betty only if it is owned by user guillaume.
