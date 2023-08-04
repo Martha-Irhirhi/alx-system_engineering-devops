@@ -15,3 +15,5 @@
 8. 7-everybody is a script that adds execution permission to the owner, the group owner, and other users
 
 9. 8-James_Bond is a script that gives owner and group no permission and all permissions to others
+
+10. 9-John_Doe sets file hello to rwx-x-wx
