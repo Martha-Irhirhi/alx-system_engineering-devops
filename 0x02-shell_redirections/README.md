@@ -2,4 +2,6 @@
 
 1-confuse_dsmiley is a file that displays a confused smiley "(Ôo)'.
 
-2-hellofile is a file that displays  the content of the /etc/passwd file.
+2-hellofile is a file that displays  the content of the /etc/passwd file
+
+3-twofiles displays  the content of /etc/passwd and /etc/hosts.
