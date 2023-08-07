@@ -13,3 +13,5 @@
 7-file is a file that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
 
 14-findthatword displays  lines containing the pattern “root” from the file /etc/passwd
+
+15-countthatword displays the number of lines that contain the pattern “bin” in the file /etc/passwd
