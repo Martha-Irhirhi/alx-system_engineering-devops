@@ -9,3 +9,5 @@
 4-lastlines displays  the last 10 lines of /etc/passwd
 
 5-firstlines is a file that  the first 10 lines of /etc/passwd
+
+7-file is a file that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
