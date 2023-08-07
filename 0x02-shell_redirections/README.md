@@ -48,3 +48,5 @@ Sorted from the newest to the oldest
 18-letteronly Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 
 20-hiago
+
+21_reverse
